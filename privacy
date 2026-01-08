@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacybeleid - Auto Verkoop Contract</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #c81e1e;
+    }
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+    .small {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacybeleid – Auto Verkoop Contract</h1>
+  <p class="small">Laatst bijgewerkt: 8 januari 2026</p>
+
+  <p>
+    Auto Verkoop Contract ("de app") is een eenvoudige applicatie waarmee gebruikers
+    een digitaal auto-verkoopcontract kunnen invullen, downloaden en opslaan.
+    Wij respecteren je privacy en verwerken geen gevoelige gegevens.
+  </p>
+
+  <h2>1. Welke gegevens verzamelt de app?</h2>
+  <p>
+    De app verzamelt geen persoonsgegevens die door ons worden gebruikt om een
+    gebruiker te identificeren.
+  </p>
+  <p>De app verwerkt alleen gegevens die de gebruiker zelf invult in het contract, zoals:</p>
+  <ul>
+    <li>Naam verkoper</li>
+    <li>Naam koper</li>
+    <li>Adresgegevens</li>
+    <li>Kenteken en voertuiggegevens</li>
+    <li>Handtekeningen</li>
+  </ul>
+  <p>
+    Deze gegevens worden uitsluitend lokaal op het apparaat van de gebruiker verwerkt.
+    Ze worden niet doorgestuurd naar onze servers of naar derden.
+  </p>
+
+  <h2>2. Hoe worden gegevens gebruikt?</h2>
+  <p>
+    De ingevulde gegevens worden alleen gebruikt om:
+  </p>
+  <ul>
+    <li>het verkoopcontract als PDF te genereren;</li>
+    <li>het document lokaal op te slaan op het apparaat;</li>
+    <li>het document te delen via e-mail of andere apps, als de gebruiker dat zelf kiest.</li>
+  </ul>
+  <p>
+    De app gebruikt deze gegevens nergens anders voor.
+  </p>
+
+  <h2>3. Worden gegevens gedeeld met derden?</h2>
+  <p>
+    Nee. De app stuurt geen gegevens naar externe partijen of servers. Alle gegevens
+    blijven onder controle van de gebruiker.
+  </p>
+
+  <h2>4. Bewaren van gegevens</h2>
+  <p>
+    Alle gegevens worden lokaal op het apparaat van de gebruiker opgeslagen.
+    Wij hebben geen toegang tot deze gegevens.
+  </p>
+  <p>
+    De gebruiker kan de gegevens verwijderen door het contract te verwijderen of
+    de app te verwijderen.
+  </p>
+
+  <h2>5. Rechten van gebruikers</h2>
+  <p>
+    Omdat wij geen gegevens op eigen servers opslaan, kunnen verwijderingsverzoeken
+    rechtstreeks door de gebruiker zelf worden uitgevoerd door:
+  </p>
+  <ul>
+    <li>contracten in de app te verwijderen;</li>
+    <li>de app te verwijderen van het apparaat.</li>
+  </ul>
+
+  <h2>6. Gebruik door kinderen</h2>
+  <p>
+    De app is niet bedoeld voor kinderen jonger dan 13 jaar. Wij verzamelen niet
+    bewust informatie van kinderen.
+  </p>
+
+  <h2>7. Contact</h2>
+  <p>
+    Voor vragen over dit privacybeleid kun je contact opnemen via:
+  </p>
+  <p>
+    E-mail: <strong>jouw-emailadres-hier</strong>
+  </p>
+  <p style="margin-top:2rem; font-size:0.9rem; color:#666;">
+    Als je de app of dit beleid wijzigt, werk deze pagina dan bij zodat gebruikers
+    altijd de meest recente informatie kunnen lezen.
+  </p>
+</body>
+</html>
+helpmycar.eu@gmail.com
